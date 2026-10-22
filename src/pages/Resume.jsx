@@ -115,7 +115,7 @@ const Resume = () => {
 
             <p>
               <span className="contact-icon">↗</span>
-              Portfolio: <a href="#">Add your live website link</a>
+              Portfolio: <a href="https://portfolio-khaki-psi-mu2brpaxdq.vercel.app/">Add your live website link</a>
             </p>
           </div>
         </header>
