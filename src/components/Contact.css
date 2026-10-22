@@ -1,0 +1,19 @@
+.contact-status {
+  margin-top: 16px;
+  font-size: 14px;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.contact-status.success {
+  color: #16805d;
+}
+
+.contact-status.error {
+  color: #c0392b;
+}
+
+.contact-submit:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
